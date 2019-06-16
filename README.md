@@ -1,4 +1,4 @@
-### Responsive Design - Mini Project
+### Code Institute - Responsive Design - Mini Project
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -14,7 +14,7 @@
 ***
 #### project url: **'https://davidhubber.github.io/ci-responsive_design-mini_project/'**
 ***
-title: **'Responsive Design - Mini Project'**
+title: **'Code Institute - Responsive Design - Mini Project'**
 
 description: **First project to create full webpage with 'header', 'main' and 'footer' with 'aside element'**
 
@@ -32,4 +32,4 @@ credits:
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-### Responsive Design - Mini Project
+### Code Institute - Responsive Design - Mini Project
