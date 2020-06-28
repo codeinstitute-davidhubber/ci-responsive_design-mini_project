@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-responsive_design-mini_project/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-responsive_design-mini_project/'**
 ***
 title: **'Code Institute - Responsive Design - Mini Project'**
 
